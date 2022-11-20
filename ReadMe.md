@@ -13,6 +13,7 @@
 ### How to use it
 
 export `src/` to PYTHONPATH
+
 Run `src/Main.py` to invoke command line
 
 Note: For time being, I will suggest to use A for adding, and I for Investing
